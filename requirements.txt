@@ -1,0 +1,3 @@
+# list of requirements necessary for Binder version
+numpy
+matplotlib
