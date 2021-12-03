@@ -16,3 +16,7 @@ In fact the material used in its preparation was put together collaboratively
 by all of the authors of the Nature Astronomy article in a more straightforward 
 scientific article fashion. This article is intended as a 
 public version, with only minor changes from the August 2021 material. 
+
+The Jupyter notebooks can be run from Binder by clicking here:
+
+![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andyxerxes/Space-environment-paper/HEAD)
